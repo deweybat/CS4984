@@ -1,0 +1,252 @@
+,subreddit,score,id,body
+0,announcements,22893,d4bu28o,"Hey Spez,
+
+I'd like to propose an *alternative* to /r/All, which would be something like /r/Outstanding.
+
+Sorting by most upvotes is great. But what I would *really* want to see are those posts that really *exceed* the expectations of their respective subreddits. Let's say that /r/Pics regularly has posts that get to 5,000 points. Obviously those will show up in /r/All, even if they're nothing special. It's just because /r/Pics is so big, and the top post is bound to get that high.
+
+But, at the same time, let's say that the /r/PicsOfUnusualBirds subreddit (not sure if that's a real thing) normally gets only 50 votes per post, but a post today got *100* votes. Whoa! *Double* what they regularly get. That must mean that it's a really good submission, right? That's the kind of content I want to see. 
+
+The overall basis of it should be votes by percentage of subscribers, or something along those lines. it needs to take in the population of the subreddit into account. Obviously there would need to be some control (like if a submission in /r/PicsOfUnusualBirds was linked to in a popular /r/Askreddit post) to prevent brigading style stuff. But that can all be tweaked; just think about the concept.
+
+--------
+
+Pros of this system (as opposed to /r/All)
+
+* Will allow for better subreddit discovery because small subreddits will be able to get on the list more easily.
+
+* Takes away the advantage of massive default subreddits.
+
+* Can't be dominated by one subreddit regularly, unless it continually exceeds its previous records (which would be really difficult). 
+
+* Would really highlight the very best of Reddit or the most important news. "
+1,announcements,16925,dv82zl2,"Hi Spez,
+
+I was a moderator around Reddit for a number of years, and I found that the admins nearly always chose a policy of inaction on potentially controversial problems like this. It's [second from the bottom on my big list of complaints about dealing with the admins](https://www.reddit.com/r/blog/comments/352twf/were_sharing_our_companys_core_values_with_the/cr0hga1/). And you know what? It nearly always blows up into a big disaster that is ten times harder to control. I can name a number of examples from old Reddit history that you might remember as well. [Here is my comment from when /r/FatPeopleHate was banned](https://www.reddit.com/r/OutOfTheLoop/comments/39l55o/whatever_happened_to_the_mod_who_wanted_to_delete/cs4d7yd/?context=3), and it's pretty much **exactly** what we're dealing with today:
+
+> The admins have made some serious missteps. First, they should have been addressing shit like this years ago when Reddit first got big enough to start brigading. They let hate subs grow and didn't even make public comments on it. I still remember that when Violentacrez got doxxed, the mods started a ban boycott of gawker sites. Yishan (CEO at the time) then came into the mod subreddit (which is private) and asked us not to do it because it made bad press for Reddit. They didn't even have the guts to make that statement publicly, much less tell off Gawker. Getting the admins to do anything even remotely controversial has been a constant problem.
+
+> They were lenient on issues of harassment and brigading because they didn't want to take a controversial stance, and now it has blown up in their faces. And what's more, the Admins themselves have encouraged the exact same behavior by urging people to contact congress on Net Neutrality and all this stuff. They let a minor cut turn into a big infection that went septic, and now they are frantically guzzling penicillin hoping that they can control the damage. 
+
+> Another huge misstep was the tone and writing of the announcement. They should have very clearly defined harassment as outside contact with specific 'targets' and cooperation of the subreddit's moderators. It was phrased in such a vague way that, in tandem with this post, people were able to frame this as an attack on ideas instead of behavior. They needed to clarify that mocking someone isn't harassment; actually hunting down and contacting the person is. That's why /r/cringe, and even all the racist subs are still allowed. They're despicable, but they aren't actively going after anyone.
+
+> In my opinion, they should have presented clear evidence of such harassment from the subreddits that were banned and said ""This is exactly what will get you banned in the future."" /r/PCMasterRace was banned for a short time because the mods there were encouraging witch hunts of /r/gaming, and the admins provided clear proof of what had happened. The mods then cleaned up their shit, and the harassment stopped and everything went back to normal. That is how it should work: if an active mod team agrees to crack down on any instances of harassment or witch hunting, then the community can stay. 
+
+
+/r/The_Donald has committed blatant violations of pretty much every Reddit-wide rule . And you all refuse to act for one simple reason: you're afraid of how it *looks*. You're worried that the headline will be ""Reddit takes political stance and bans Donald Trump supporters."" Which is obviously not the case, since the ban would be for brigading, racism, sexism, etc. But you're worried that you can't control the narrative.
+
+So please realize that *this never works*. What has always happened in the past is that your policy of inaction lets the problem grow and grow and grow until there is a *mountain* of evidence that somehow catches the eye of someone in the media, and they publish something damaging about Reddit that eventually spurs you all to do something. But by then it is too late and you've allowed that sort of content to proliferate throughout the site. And it becomes public and you're unable to control the narrative anyway, which is why Reddit was associated for pedophilia for so long after CNN interviewed the founder of /r/Jailbait. Remember that one?
+
+I'm begging you, just once: **please** enforce your rules as they are written and regardless of how some people might try to interpret it. And when you do enforce those rules, provide a statement that *clearly* describes the violations and why that enforcement action is being taken. **That** is the only way you'll ever control the narrative. You can either do it now, or you can do it when it blows up in your face. "
+2,OutOfTheLoop,6291,csq204d,"Today, we learned that Victoria was unexpectedly let go from her position with Reddt. We all had the rug ripped out from under us and feel betrayed. 
+
+Before doing that, the admins really should have at least talked to us (and all the other subs that host AMAs, like /r/Books, /r/Science, /r/Music, etc.) (Edit: not to suggest that we expect to know about Reddit's inner workings. Just that there should have been a transition in place or something worked out to ensure that Victoria's duties would be adequately handled, which they are not) We had a number of AMAs scheduled for today that Victoria was supposed to help with, and they are all left absolutely high and dry (hence taking IAMA private to figure out the situation) She was still willing to help them today (before the sub was shut down, of course) even without being paid or required to do so. Just a sign of how much she is committed to what she does. 
+
+The admins didn't realize how much we rely on Victoria. Part of it is proof, of course: we know it's legitimate when she's sitting right there next to the person and can make them provide proof. We've had situations where agents or others have tried to do an AMA as their client, and Victoria shut that shit down immediately. We can't do that anymore.
+
+Part of it is also that Victoria is an essential lifeline of communication. When something goes wrong in an AMA, we can call and get it fixed *immediately*. Otherwise, we have to resort to desperately try messaging the person via Reddit (and they may not know to check their messages or even to look for these notifications). Sometimes we have to resort to [shit like this](https://www.reddit.com/r/IAmA/comments/1zg3b8/gabe_newell_ama_100_pm_pst/cftfbio) (now [with a screenshot](http://i.imgur.com/UtV7fvg.png) because I can't link to that anymore for you) where we have to nuke an entire submission just so that the person is aware of the problem.
+
+Part of it is also organization. The vast majority of scheduling requests go through her and she ensures that we have all of the standard information that we need ahead of time (date, time, proof, description, etc.) and makes it easier for the teams that set up AMAs on both ends. She ensures that things will go well and that the person understands what /r/IAMA is and what is expected of them. Without her filling this role, we will be utterly overwhelmed. We might need to scrap the calendar altogether, or somehow limit AMAs from those that would need help with the process. 
+
+We have been really blindsided by all of this. As a result, we will need to go through our processes and see what can be done without her.
+
+**Tl;dr**: for /r/IAMA to work the way it currently does, we need Victoria. Without her, we need to figure out a different way for it to work."
+3,AskReddit,3847,cl35giw,"We had an [AMA from a North Korean defector](https://www.reddit.com/r/IAmA/comments/27c3sc/i_am_joo_yang_a_north_korean_defector_ama/).
+
+[He said that the hardest part of adjusting was a lot of new culture shocks to get used to and understand, for instance toilets and ATMs, and using an electronic card to ride the subway... Escalators, elevators, all of those things](https://www.reddit.com/r/IAmA/comments/27c3sc/i_am_joo_yang_a_north_korean_defector_ama/chzdb0m).
+
+[In another AMA from a North Korean refugee, he said that he had never heard of the moon landing](https://www.reddit.com/r/IAmA/comments/1ltjg0/i_defected_from_north_korea_and_now_work_as_a/cc2lb2z). It would be crazy to find out that all those years that you'd been staring up at the sky, someone else had been up there."
+4,AskReddit,3791,ckvk8sx,"Adolph Hitler's remaining relatives (nephews, I think) made a pact to never have children, so that the family dies out forever."
+5,IAmA,3717,cllbw22,Isn't that exactly what the Weasleys do in the books? Collect all sorts of weird muggle things?
+6,blog,3667,cr0f5xz,"I have to say that I don't think Reddit as a business follows the bullets in #5 very well. Having been a mod of large subreddits for a while, the admins are constantly difficult to deal with for precisely these reasons. 
+
+> Make all decisions within the framework of larger goals.
+
+Reddit spends their developer time and effort creating things like Redditmade, which lasted what, a month or two? Or RedditNotes, which was presumably shut down as soon as they managed to get their attorney to stop laughing? How about that time where they developed a tool to detect nods of the head and then integrated it into the site just for a one-time april fools gag? Anyone remember that? Meanwhile, the cobwebs in /r/IdeasForTheAdmins keep getting thicker and thicker. Come on, admins: Snoovatars? Seriously? 
+
+It shows no pursuit of a constant strategy, but instead throwing darts at a board and hoping that something sticks. And even worse, it shows a disregard for the core of the business because they prioritize these projects instead of the basic tools and infrastructure of the site.
+
+> It's better to make an unpopular, deliberate decision than to make a consensus decision on a whim.
+
+And yet Reddit's default solution to problems seems to be never making a decision at all. The admins are awful at communicating what the rules are and how they are interpreted. Who the fuck here actually knows what constitutes a brigade? 10 users from /r/subredditdrama can all get banned for voting in a linked post, but linking to an active AMA is encouraged? Oh, wait, sometimes it isn't. Sometimes it is considered brigading too. I, and other moderators that I know, have often messaged the admins with issues and questions and never received any kind of response. 
+
+And when decisions do come down, rules are applied much more strictly for some than for others. Post someone's phone number? Shadowban. Gawker publicizes user's personal information in an article? Post doesn't even get removed. We had an example one time where a user specifically said ""Upvote this to the top of /r/All"" in a revenge post for getting their AMA removed. The admins took no action, despite the fact that this is pretty much the definition of vote manipulation. Or how about deciding when to get involved in stuff? /r/Technology and /r/Politics are the examples that spring to mind; they were removed as defaults for what, exactly? Where is this policy laid out? How do I know when I and the rest of the mod team are causing too much trouble and will be undefaulted? How unpopular does our moderation decision have to be for the admins to cave and remove us? Or how much bad press does a subreddit need to get before the Admins remind us that we're all responsible for our own souls? (oh, and also they're shutting the controversial subreddit down because apparently we aren't responsible enough.)
+
+It works the other way, too. Reddit refuses to apply the few clear rules that there are in situations where it would apply to a popular post or community. I have seen regular brigading from places like /r/Conspiracy, /r/HailCorporate, /r/ShitRedditSays... etc. And nothing is ever done about it because the admins seem worried about the narrative that would come about from doing anything. 
+
+---
+
+tl;dr: I don't think you all have followed your rules in #5 very well. 
+
+And yes, some of this is copied from a rant that I posted elsewhere.
+
+---
+
+Edit: having said all of that, there are many things highlighted in the blog's list that Reddit does well. And the weird obsession with Ellen Pao that some users have is just ridiculous. These are all persistent trends on Reddit that have been around long before she came on board. Hell, long before Yishan was CEO too.
+"
+7,AskReddit,3425,ckvk59o,"In elementary school, all the kids had to write a letter to someone in the White House. This was when Clinton was when office. Some kids wrote to Bill, some to Hillary, and some to Chelsea. I wrote to Socks, the cat. I received a letter back with a paw print. I definitely made the right choice."
+8,blog,3413,cb4l7sg,"Goodbye, /r/Atheism and /r/Politics. You won't really be missed."
+9,AskReddit,3258,ciihc81,"Reddit mods are paid by corporations to delete certain content.
+
+    I know this is convincing, because users accuse us of it every day."
+10,AskReddit,3182,ckvkj4c,"Fuck you, it really was Socks who wrote back!"
+11,AskReddit,3099,ckq8r8k,"Dee Dee, from Dexter's Lab. 
+
+All he wants to do is make cool science stuff, and she just wrecks his shit and has no concept of boundaries or personal space.
+
+Edit: And Phoebe from Friends. She's the first person to think that ""Random"" = ""Funny."" It doesn't! She's useless and annoying."
+12,IAmA,2666,cnnj7w7,"I am temporarily removing the other comment responses to this comment so that people can actually see the real answer. If you're curious about what they all said, [there's a snapshot here](http://www.reddit.com/r/SubredditDrama/comments/2s9akr/nissan_ama_goes_bonkers_and_ama_integrity_is/cnnd2wa). 
+
+Edit: older posts are reapproved.
+
+----
+
+Talk about cherry picking, christ. [Go to the post sorted by old](http://np.reddit.com/r/IAmA/comments/2s7obx/im_the_ceo_of_renault_and_nissan_and_were_making/?sort=old) and see whose questions he answers.  4 month account, 2 month account, 9 month account, 5 year account... etc. Plenty of long time redditors got addressed. /u/IDontGetThis has [compiled this helpful chart showing the account ages](http://www.reddit.com/r/IAmA/comments/2s7obx/im_the_ceo_of_renault_and_nissan_and_were_making/cnnlple?context=3).
+
+But more importantly:
+
+NEW ACCOUNT =/= SHILL ACCOUNT. We've had to go over this in /r/IAMA many different times. We've asked the admins to investigate claims like this a few times and the answer is always the same. The OP [probably tweeted out a link to their post](https://twitter.com/Nissan/status/553932864895864832/photo/1) and the people who are interested enough to follow Nissan on Twitter were interested enough to come here to make an account and ask a question. 
+
+[Here's a great example where the exact thing happened in Alice in Chains' AMA](http://www.reddit.com/r/SubredditDrama/comments/1f8hom/alice_in_chains_does_an_ama_a_brand_new_account/ca7urop)
+
+Applicable quote:
+
+> If this really was a PR guy, the account would more likely be 25 days old, just like the [Nissan] account. They'd make all of their accounts at the same time. It makes zero sense for them to make a bunch of fake accounts the moment of the AMA, especially when they have a HUGE selection of positive questions to pick from within the first 20 seconds of the AMA.
+
+Doesn't it make so much more sense that users would follow the guy in from Twitter, instead of the company plotting to plant some inane questions at the risk of a huge amount of bad PR for getting their post removed? 
+
+/r/IAmA is one of the main ways that new users are brought to Reddit. They make an account to ask a question and then stick around for a while. So good work, everyone. Excellent work making a great first impression by harassing them.
+
+"
+13,AskReddit,2424,carceyj,"Fairly regularly. Maybe once every day or two.
+
+Particularly in /r/circlejerk. "
+14,AskReddit,2421,cfjakdr,"Bitcoin.
+
+At least when you gamble at a casino, you get to play a fun game before losing all of your money. "
+15,AskReddit,2321,cf0wkvw,"Water.
+
+There was a creek behind my house that my neighbors and I spent countless hours trying to dam up.
+
+My greatest triumph is when the city had to send someone to wreck our dam because it had stopped the water flow."
+16,AskReddit,2248,cgd86wb,"For A Song of Ice and Fire, keep an open mind about characters. Just because you have formed an initial impression of them doesn't mean that they will stay that way throughout the books.
+
+Also, good question, OP. Rare to see something new in /r/askreddit."
+17,AskReddit,2220,cbyehmw,Pun threads are not allowed in posts tagged as [serious].
+18,AskReddit,2150,cfckh39,Nightclubs.
+19,OutOfTheLoop,2150,csq405c,"> Right now I've got 4 authors who have scheduled AMAs and no fucking way to contact them!
+
+We've got twenty something on our calendar and we're in the same boat.
+
+We only *learned* about this whole shitshow because someone modmailed us saying that Victoria was supposed to help them with an AMA and couldn't today."
+20,IAmA,2121,clnfp44,"What is dead **can never die** but rises again, harder and stronger. "
+21,AskReddit,2088,cahfqj8,Seaweed touching my leg when I swim.
+22,AskReddit,2014,cm694r5,"I think the idea behind the giveaway is that it rewards Reddit users and gives them a stake in the company. It creates an incentive to contribute and make the site better, because they would be a part owner (even if it is just a ridiculously small amount).
+
+Giving it to a charity doesn't really accomplish that."
+23,AskReddit,2005,cbavmmw,"Instead of wasting time trying to figure something out that you don't understand, ask someone who does understand. "
+24,SubredditDrama,1963,cjdaouu,You're going to love it when I ban Emma Watson's AMA and remove a comment from George R. R. Martin telling everyone how Game of Thrones ends. 
+25,blog,1943,cjcd1b6,"What the fuck, man?
+
+What bothers me about this is that it is so completely unnecessary. It's not like you were being followed by a downvote mob. Kind of the opposite, actually... Why would you do that? "
+26,AskReddit,1918,ckrfxug,"False rape accusations and women accusing men of being child molesters just for looking at a kid in public.
+
+The Mens Rights crowd on Reddit is a bit over the top."
+27,TheoryOfReddit,1906,c7srgs4,"As someone who may have been considered such a commenter at one time, I will say that it is both. One fed the other. ""Super commentors"" saw the 'niche' for low value comments as reddit's userbase grew... well, worse. That, in turn, lowered the quality, which attracted more of the same new users, which led for the demand for low-value comments to grow. Now, first: a lot of it depends on *why* someone is commenting a lot. I personally used to comment a lot because I liked interacting with people and getting replies, so I would focus on conversation-inducing topics, while also going for ones that I thought would be popular (thus more likely to be seen and commented on). There are some people who just treat it like a game and want a high score (see: everyone in /r/risingthreads). There are also some people who just have stuff to say and comment regardless of number of comments or votes. 
+
+There are multiple issues that all feed each other.
+
+1. The rate at which the comment section moves. The problem is that comments don't get noticed when there are already a good amount of comments; they just get buried in a big pile that no one reads through. Good luck commenting on something 10 hours after it is posted; hell, good luck getting in there *1* hour after. Therefore, someone who takes the time to write out a long comment will pretty much be left in the dust. This degrades the quality of comments because it encourages someone to leave a one-liner in order to get noticed.
+
+2. The parent/child problem: This is a big breakdown on Reddit's part. Top level comments should be getting *all* of the attention. But, child comments get *more* public attention because they are not seen on their own merit, but rather the merit of the post above them. As a result, karma farmers figured out that you can simply attach your comments to an already-upvoted comment, and you'll get upvoted just by proximity. This leads these people (apostolate, andrewsmith, etc.) to just go through and spam replies to all the top comments. To address this, I think Reddit should have the default comment section look like the ""contest mode"" where a person has to actively expand child comments in order to see them. That way, the comment section would just be a tidy collection of the top-level replies unless you actually want to see those other replies.
+
+3.  Comment ordering: I think Reddit needs to encourage more options that would help with the above options. They tried it with sorting by ""Best,"" but that unfortunately doesn't work very well. I think a better option would be the ability to sort by discussion, where top-level comments with lots of replies would be ranked above higher-upvoted posts with fewer replies. They could also do it by ratio of upvotes in the parent to upvotes in the child. There could also be completely random ordering, which would help new comments get some visibility, even on older posts.
+
+4. Lowest common denominator content: this is a deplorable shift in Reddit's culture, and I attribute it to the general eternal september issues. Reddit has just gotten really, really big. Cheap, easy-to-digest content rises to the top, while something thought provoking that takes a while to digest will just be ignored. The ""Aint nobody got time for that"" gif that is seen in reply to articles and factual posts is pretty emblematic of the problem. Even if you *do* take the time to write something out, no one will bother reading it. When I was commenting as /u/RedditNoir, I wrote long (by Reddit standards, at least) stories and got *constant* replies of ""too long, didn't read."" It gets to a point where, after writing out something and having it ignored, you just think ""why bother?""
+
+5. Lack of moderating tools for comments: mods really have no way of controlling comments, and we need a way to. If you look at the subreddits on a scale of ""no moderation"" to ""heavy moderation,"" you'll see that the ones that are less moderated (/r/funny, /r/atheism, /r/adviceanimals) are havens of both low quality comments and posts. Now, mods are able to pretty easily prescribe rules for posts, but comments are a lot more difficult because it's pretty much impossible to judge them without making a judgment about the content of the comment, which is (ostensibly) what *votes* are for. For example, in /r/IAmA, I am sick of the ""100 duck-sized horses"" question, but who am I to say that *that* question is worse than the other questions that people ask? Now, some subreddits do moderate comments severely (/r/Askscience, etc.), and I am trying to get a hang of it in /r/Ask_Politics. The issue as I see it is that using the remove tool is like using a hatchet when you need a scalpel. Removing comments disrupts the conversation, confuses people, and isn't always a fair punishment for whatever they did.
+
+Tl;dr: the system is designed in such a way that it encourages people to leave low-effort comments. 
+
+Edit: The fact that I had to leave a tl;dr because I expect my comment to just be passed over without it is a prime example. 
+
+Edit 2: I see that this was submitted to bestof. Just wanted to update and say that I talked to the admins about some stuff and we might have some better comment options soon. "
+28,AskReddit,1877,c82xicy,"Wow, 75 answers and no one has even told you the truth yet.
+
+http://www.metareddit.com/monitor. 
+
+It will let you know when a certain word appears on Reddit. "
+29,IAmA,1819,c6gnghn,by bribing us. 
+30,IAmA,1809,cfw16bv,"> Update: Where's Snoop? I have brownies FOR YOU!
+
+You have to summon him to share your special brownies.
+
+/u/Here_comes_the_king"
+31,IAmA,1796,cjgjozy,How do you make friends and establish relationships with people without worrying that they only want to be close to you because of your fame and money?
+32,IAmA,1741,cjkoqc8,"We used to do this, but it caused a few problems.
+
+* We only verify posts where the proof has to remain absolutely confidential. We would much prefer that the proof be posted publicly so that *you* can look at it yourself and decide whether it is true. But giving it a ""verified"" mark, we would have to verify *every* AMA, even where the proof is public.
+
+* When we used to do it, users would downvote AMAs that *didn't have the mark*, even when they had posted their proof publicly. People just wouldn't bother opening up the post before downvoting. This was particularly terrible for new AMAs that were perfectly legitimate, but the mods hadn't gotten around to marking it.
+
+* We have a flair system so that you can sort AMAs by category. You can see [all of the categories here]( https://www.reddit.com/r/IAmA/wiki/index#wiki_6._where_can_i_read_previous_amas.3F). Having a verified flair system would require us to scrap the category sorting.
+
+* We don't always just say ""verified."" Sometimes we add more detail, like [here](https://www.reddit.com/r/IAmA/comments/2cz4rn/iama_navy_super_hornet_pilot_amaa/cjkgrch?context=3), where I verify that he is a pilot but not what kind of plane he flies. We wouldn't be able to do that with an external system."
+33,IAmA,1738,ci6vwad,Daario = Benjen Stiller confirmed 
+34,IAmA,1718,c37e5ie,"Just confirming that this is indeed the real IAmA, unlike some of the fake ones that have sprung up. The admins messaged us his name ahead of time."
+35,AskReddit,1674,cf17l4y,"I'll just copy/paste my comment [here](http://www.reddit.com/r/AskReddit/comments/1t8yu8/redditors_who_have_been_here_since_reddit_started/ce5k4kb).
+
+I've been around (lurking, at least) for about 6 years now. So not since the beginning, but certainly longer than most.
+
+It's hard to describe exactly how it has gone downhill. It's a completely subjective determination.
+
+First, I think that the site has improved in some ways. I am a mod in /r/askreddit, so maybe I am biased, but I think the questions here have improved a lot, especially in the past year. And I am hopeful that [serious] threads will take off more. Also, again I am biased, but I really like /r/IAmA, which was not around when I first started using Reddit.
+
+I think that one of the first major changes is that Reddit has shifted toward a content creation role. Sounds good when you just say that, but the implications are bad. Reddit was created and advertised as a news aggregator. It was supposed to be a place to collect interesting things from all over the internet. So, the best pics from flickr or whatever would end up here. Now, as a content creator, it's focused less on what the content is. /r/pics is now all sob stories and people trying to play on emotion to push their own self-created content, instead of truly highlighting the best content. /r/No_sob_story catalogues this issue pretty perfectly; the pictures themselves are boring and useless. It also explains why /r/adviceanimals has taken off; people don't want to view content from everywhere else, they just want to make their own point and then (for some reason unknown to me) attach it to a stupid picture. Advice animals are just themed self posts. I could go on and on about this trend.
+
+Another issue I have is with the comment section. Reddit, and askreddit in particular, has just gotten too big for the current system to work well. Ever been to a popular AMA post in the first few minutes? The only way to describe it is ""a stampede."" Hundreds of comments are posted in minutes, and then users maliciously go and downvote everyone else's comments to try to give their comment a better chance. It's just pathetic. Askreddit, similarly, is so biased towards comment posted in the first few minutes of a post that those have a significantly higher chance of being upvoted just by virtue of having been their first. It doesn't allow quality content to rise to the top. [I've discussed flaws in the comment system at length here](http://www.reddit.com/r/TheoryOfReddit/comments/164ss5/did_supercommentors_ruin_the_comment_section_or/c7srgs4). 
+
+Another aspect that I dislike about it is that the size precludes any good community from forming. When I was first modded to /r/askreddit, we had 40,000 subscribers. We're now 100x bigger than that. That's a ridiculous amount of growth. When it was small and manageable, it was like a community where regular commenters got to know each other. It was a lot more amicable. Now, the only people who rise up like that are those who deliberately set out to become ""well known."" You'll see the ALL CAPS usernames and the spamming of comments on every single top comment in all rising posts. It's phony, artificial interaction designed to provoke those ""OMG, I SEE YOU EVERYWHERE"" type reactions. There are new ones every month. I just don't feel a connection to the community the way that I used to.
+
+This has also led to a downgrade in comment quality. Now, if your comment can't be digested in a few seconds, it's going to be a lot hard to get any traction. That's why gifs and image replies are so prevalent nowadays, whereas when I joined, a paragraphs-long explanation (like this one) were not at all uncommon.
+
+Fourth, there has been a pretty clear downgrade in the maturity and attitude of Redditors. The popularity of subreddits like /r/cringepics or /r/justiceporn just scare me. It's people deliberating taking pleasure in mocking or bulllying others. It's prevalent in all default subreddits, too. Users are much more combative and argumentative. Places like /r/politics, where you could actually debate when I first joined, became internet shouting matches with neither side listening. It's just a toxic atmosphere.
+
+Now, most experienced users will say ""go to smaller subreddits, they're better,"" without realizing that doing that (1) makes the defaults worse, and (2) only forestalls the inevitable: those small subreddits will grow and falter just as the defaults have. Places like /r/TrueReddit are just as bad as the subreddits they sought to replace.
+
+I guess I'm done with this rant for now. I might add more later.
+
+"
+36,IAmA,1647,cew947e,This is the real AMA. [this post here is fake](http://www.reddit.com/r/IAmA/comments/1vvu6y/hi_reddit_its_me_mark_hamill_sorry_im_late_ask_me/).
+37,IAmA,1633,cembysm,"Given that this post will soon be entirely overrun by people parroting Archer quotes, which overly repeated phrase annoys you most?"
+38,AskReddit,1640,cf16ue5,"A good alternative.
+
+I've been on Reddit for years and it is definitely different from the site I originally joined. If I could find a replacement, I would probably leave."
+39,IAmA,1628,ci012ew,Have you spoken with the prosecutors who worked to convict you? What have they said about the situation?
+40,IAmA,1612,c2fal3n,"Hey man,
+
+I'm sorry redditors have been harassing you. Totally inappropriate.
+
+I'll try and do a good job with the subreddit"
+41,AskReddit,1564,chp7844,"My old roommate loves to tell people about it and introduces me as ""the guy that everyone on the internet hates."""
+42,IAmA,1559,cfw1mhs,"If you say his username, /u/Here_Comes_The_King, it sends a message directly to his inbox!"
+43,OutOfTheLoop,1481,cs491to,"He didn't threaten to shut it down. He *did* shut it down.
+
+Subreddits can't be deleted. But he wiped the approved submitter list and set it to ""Approved submitter only."" So effectively, there would never be any new submissions. Then he made a post about why he did what he did: the subreddit had gone to shit. There were a ton of fake posts and a ton of circlejerk style shitposts. The day before it was shut down, our top post was ""Ask me to draw you something in MSpaint."" A while earlier, someone did like 3 AMAs, one each day, about how he was constipated. Someone else did one about how they were making tea and couldn't decide what type they wanted. Those all made it to the fucking front page.
+
+So he decided enough was enough and closed it. None of the other mods were informed in advance, so it was quite a shock to wake up to 50 messages about why /r/IAMA was gone. 32bites and I were friends on facebook, so after reading the post, I sent him a message saying that there was really a better way. Instead of just closing it, we could make rules on posts so that this type of thing wouldn't be allowed. 
+
+I didn't hear back from him for a while because he was at work, so not online. In the meantime, there was a big shitstorm brewing on Reddit. People found his phone number online and started harassing him. So he went on facebook and replied to me and said that that would be better. Then he talked to one of the admins (I believe via phone) and said he couldn't get on Reddit at the moment but would like them to put me back as a mod there. So they made the change for him, and he removed himself as a mod later that day. It was ultimately his decision. 
+
+Afterward, we made rules about proof and our [main rule about quality](http://www.reddit.com/r/IAmA/wiki/index#wiki_8._what_topics_are_and_are_not_allowed.3F):
+
+> AMAs should be about something uncommon that plays a central role in your life or a truly interesting and unique event. 
+"
+44,IAmA,1407,cgpvusk,Obama's AMA had so many comments that it broke Reddit and interrupted the AMA. It was also the only time that an individual submission had more views than the front page of the site.
+45,AskReddit,1382,cguu38a,"The vast majority of Redditors know nothing about the law, the constitution, and their rights.
+
+Every time I see someone say ""Well this is *clearly* unconstitutional!"" I just laugh. Of course this high schooler knows more about interpreting the constitution than the entire Supreme Court."
+46,AskReddit,1352,ckpkpbj,Reddit. I've seen enough on /r/TheoryofReddit.
+47,IAmA,1347,cf13xqo,"This type of behaviour has become disturbingly common in AMAs, and we have even considered not announcing the exact time of popular AMAs on the calendar so that users can't do this sort of thing."
+48,AskReddit,1349,ciihnw8,"Nice try, Karmanaut's alt account!"
+49,AskReddit,1336,ckplenh,It is hard to keep track of the usernames sometimes.
